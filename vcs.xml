@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/meizhiguo/ECE364.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/wnqi-K/Raft_Implementation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Purdue/Spring 2017" />
+    <option name="cloneParentDir" value="C:\Users\45506\iCloudDrive\Documents\Unimelb\2019 Spring\da" />
   </component>
 </application>
